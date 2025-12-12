@@ -1,0 +1,8 @@
+[project]
+name = "gears"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "cell-gears>=0.1.2",
+    "ipykernel>=7.1.0",
+]
